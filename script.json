@@ -5,5 +5,39 @@
     {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
     {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
     {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."}
+    ],
+    "syllabus_book":[  
+        {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
+        {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
+        {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."}
+        ],
+
+        "time_table":[  
+            {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
+            {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."},
+            {"title":"Btech 2nd year", "url":"https://cvr.ac.in/cse/home/acad/AcademicCalendars/BTech_2.pdf","description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque, excepturi."}
+            ],
+     "faculty":[
+         {"name":"Dr. Raghava V. Cherabuddi","url":"assets/img/logo.jpg","designation":"Professor and I/C Placements","doj":"1st July 2009","qualification":"Highest Qualification - M.S. Ph.D. (U.S.A)","specialisation":"Computer Engineering"}
+     ] ,
+     "labs":[
+         {"title":"projects lab","url":"https://cvr.ac.in/p/p448437255176886/378175_448437421843536_400081865_n_448437421843536.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex. "} ,
+         {"title":"apple lab","url":"https://cvr.ac.in/p/p448437255176886/23467189_1629600257060574_1174230905064036675_o_1629600257060574.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex.         "} 
+    
+     ],
+     "library":[
+        {"title":"projects lab","url":"https://cvr.ac.in/p/p448437255176886/378175_448437421843536_400081865_n_448437421843536.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex. "} ,
+        {"title":"apple lab","url":"https://cvr.ac.in/p/p448437255176886/23467189_1629600257060574_1174230905064036675_o_1629600257060574.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex.         "} 
+   
+    ],
+    "seminars":[
+        {"title":"projects lab","url":"https://cvr.ac.in/p/p448437255176886/378175_448437421843536_400081865_n_448437421843536.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex. "} ,
+        {"title":"apple lab","url":"https://cvr.ac.in/p/p448437255176886/23467189_1629600257060574_1174230905064036675_o_1629600257060574.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex.         "} 
+   
+    ],
+    "class_rooms":[
+        {"title":"projects lab","url":"https://cvr.ac.in/p/p448437255176886/378175_448437421843536_400081865_n_448437421843536.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex. "} ,
+        {"title":"apple lab","url":"https://cvr.ac.in/p/p448437255176886/23467189_1629600257060574_1174230905064036675_o_1629600257060574.jpg","description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quis!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos nobis eligendi velit iure labore odio alias quia commodi beatae, delectus corrupti cumque ipsam tempora doloremque obcaecati expedita adipisci esse ex.         "} 
+   
     ]
 }  
